@@ -1,2 +1,0 @@
-script_key = YuukaLite.PreLoad.ScriptKey
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/4a002a84fbf9cd0512ae55620dd0dfd6.lua"))()
