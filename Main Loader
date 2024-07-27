@@ -1,5 +1,5 @@
 if string.lower(getgenv().Loader) == "Legit" then
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BagasDribble/LuarmorK/main/LEGIT%20CHEAT%20LOL.txt"))()
 else
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BagasDribble/LuarmorK/main/COMBAT%20BOT%20LOL.txt"))()
 end
