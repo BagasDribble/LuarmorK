@@ -1,5 +1,5 @@
-if getgenv().Loader == "Killbot" then
+if getgenv().Loader == "Legit" then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BagasDribble/LuarmorK/main/LEGIT%20CHEAT%20LOL.txt"))()
-else
+elseif getgenv().Loader == "Killbot" then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BagasDribble/LuarmorK/main/COMBAT%20BOT%20LOL.txt"))()
 end
