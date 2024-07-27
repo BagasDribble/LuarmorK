@@ -1,0 +1,5 @@
+if string.lower(getgenv().Loader) == "Legit" then
+
+else
+
+end
